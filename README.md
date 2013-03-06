@@ -1,4 +1,4 @@
-# Zombies
+# Zombies [![Build Status](https://api.travis-ci.org/vakuum/zombies.png?branch=master)](https://travis-ci.org/vakuum/zombies)
 
 A zombie creation kit for Linux.
 
