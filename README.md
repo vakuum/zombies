@@ -28,6 +28,12 @@ $ gcc -Ofast zombies.c -o zombies
 $ gcc -Wall zombies.c -o zombies
 ```
 
+### Modern zombies
+
+```
+$ gcc -std=c90 zombies.c -o zombies
+```
+
 ### Pedantic zombies
 
 ```
