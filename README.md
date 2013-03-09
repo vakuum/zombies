@@ -41,6 +41,12 @@ $ gcc zombies.c -o zombies
 $ strip zombies
 ```
 
+### Traditional zombies
+
+```
+$ gcc -std=c89 zombies.c -o zombies
+```
+
 ## License
 
 All zombies were released into the [public domain](https://en.wikipedia.org/wiki/Public_Domain) in 2013 by Clemens Fuchslocher.
