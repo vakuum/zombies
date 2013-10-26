@@ -31,7 +31,7 @@ $ gcc -Wall zombies.c -o zombies
 ### Modern zombies
 
 ```
-$ gcc -std=c99 zombies.c -o zombies
+$ gcc -std=c1x zombies.c -o zombies
 ```
 
 ### Pedantic zombies
