@@ -1,8 +1,0 @@
-language: c
-
-before_script: gcc zombies.c -o zombies
-
-script:
-  - ./zombies 50 &
-  - sleep 5
-  - top -b -n 1 | grep -q "50 zombie"

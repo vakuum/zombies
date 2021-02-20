@@ -1,4 +1,4 @@
-# Zombies [![Build Status](https://api.travis-ci.org/vakuum/zombies.png?branch=master)](https://travis-ci.org/vakuum/zombies)
+# Zombies [![Build status](https://github.com/vakuum/zombies/workflows/build/badge.svg)](https://github.com/vakuum/zombies/actions?query=workflow%3Abuild)
 
 A zombie process creation kit for Linux.
 
